@@ -1,7 +1,5 @@
 # COVID-19 Country Wise Statistics and Charts
 
-## Live Demo: Coming soon
-
 ## Build and run the app locally
 1. Install Dependencies
 
